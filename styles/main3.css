@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(51, 50, 50);
+  color: white;
+}
+header button {
+  height: 20px;
+  background-color: transparent;
+  color: white;
+}
+img {
+  display: inline;
+  margin-left: 90px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.trend {
+  position: absolute;
+  margin-top: 8px;
+  top: 1%;
+  left: 9.5%;
+}
+ul {
+  position: absolute;
+  top: 3%;
+  gap: 40px;
+  margin-top: 8px;
+  display: flex;
+  list-style: none;
+  margin-left: 700px;
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  cursor: pointer;
+}
+.button {
+  position: absolute;
+  top: 3.8%;
+  left: 70%;
+  background-color: transparent;
+  border: none;
+  border-radius: 5px;
+}
+button {
+  border: 0.1px solid gray;
+  border-radius: 5px;
+}
+.laugh {
+  margin: 0 auto;
+  margin-top: 70px;
+  width: 450px;
+  height: 600px;
+  border: 1px solid gray;
+}
+.pubg {
+  display: inline;
+  margin-left: 170px;
+  margin-top: 43px;
+}
+.main {
+  margin-left: 215px;
+  margin-top: -44px;
+}
+h1 {
+  text-align: center;
+  margin-top: 25px;
+}
+p {
+  display: inline;
+
+  margin-left: 120px;
+}
+
+.login {
+  margin-top: 100px;
+}
+.login p {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 83px;
+}
+.login input {
+  background: transparent;
+  width: 300px;
+  height: 40px;
+  margin-left: 80px;
+  border-radius: 6px;
+  color: white;
+}
+input {
+  padding-left: 10px;
+}
+.setup {
+  margin-top: 30px;
+}
+.setup p {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 83px;
+}
+.setup input {
+  background: transparent;
+  width: 300px;
+  height: 40px;
+  margin-left: 80px;
+  border-radius: 6px;
+  color: white;
+}
+sup {
+  color: #01bab3;
+}
+a {
+  color: #01bab3;
+}
+.goo {
+  background: #01bab3;
+  width: 300px;
+  height: 40px;
+
+  margin-left: 80px;
+  margin-top: 60px;
+  color: white;
+}
